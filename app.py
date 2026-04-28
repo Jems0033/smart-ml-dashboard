@@ -322,6 +322,4 @@ if uploaded_file:
             st.write("Top Predictions vs Actual")
             st.dataframe(compare_df.sample(20))
     
-            # fig, ax = plt.subplots()
-            # sns.heatmap(cm, annot=True, fmt='d', ax=ax)
-            # st.pyplot(fig)
+        
