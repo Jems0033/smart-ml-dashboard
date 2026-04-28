@@ -7,7 +7,7 @@ An interactive Machine Learning dashboard built using Streamlit that allows user
 ---
 
 ## 🌐 Live Demo
-Coming soon...
+https://smart-ml-dashboard-ddy74y4mty7mfxbqypuexe.streamlit.app/
 
 ## 🚀 Features
 
